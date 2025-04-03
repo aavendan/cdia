@@ -2,7 +2,7 @@
 
 ## Análisis de Pertinencia
 
-[Documento](./02 Análisis de Pertinencia.docx)
+[Documento](https://github.com/aavendan/cdia/blob/main/02%20An%C3%A1lisis%20de%20Pertinencia.docx)
 
 ## Referencias
 
