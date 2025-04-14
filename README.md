@@ -1,7 +1,7 @@
 # Ciencia de Datos e Inteligencia Artificial
 
-<p style="margin: 0 25%;">
-	<img src="media/images/front.png" alt="portada" width="45%" />
+<p align="center">
+  <img src="media/images/front.png" width="50%"/>
 </p>
 
 ## Análisis de Pertinencia Epistemológica, Relevancia y Prospectiva de la Carrera
