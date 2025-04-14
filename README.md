@@ -1,6 +1,6 @@
 # Ciencia de Datos e Inteligencia Artificial
 
-<p style="margin: 0 auto; padding: 0 auto;">
+<p style="padding: 0 25%;">
 	<img src="media/images/front.png" alt="portada" width="45%" />
 </p>
 
